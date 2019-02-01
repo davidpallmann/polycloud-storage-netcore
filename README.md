@@ -1,5 +1,5 @@
 # polycloud-storage
-PolyCloud-API library for cloud storage **.NET Core edition** | [.NET Framework Edition](https://github.com/davidpallmann/polycloud-storage)
+PolyCloud-API library for cloud storage **.NET Core edition** | go to [.NET Framework Edition](https://github.com/davidpallmann/polycloud-storage)
 
 ![PolyCloud-API-logo](https://s3.amazonaws.com/david-pallmann-public/PolyCloud-small.png)
 
